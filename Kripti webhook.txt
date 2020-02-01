@@ -1,0 +1,1 @@
+{"type": 1, "id": "673198814525521970", "name": "Kripti Webhook", "avatar": "e53886e4b77990ecfc33f5bf00eeff99", "channel_id": "649381661808656395", "guild_id": "649381661380968448", "token": "fUVBilHJlJ4rN75o7DxlJwtW-ZQ6gSQi7TCxyBWQPeuGhdoXS_WPAT7YBwDzoaXHQhTz"}
